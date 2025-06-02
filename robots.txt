@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archytseng.github.io/my-blog/sitemap.xml
