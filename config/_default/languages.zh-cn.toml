@@ -1,0 +1,26 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 2
+title = "Archy 个人博客"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  defaultAuthor = "Archy Tseng"
+  logo = "images/archy-avatar.jpg"
+  description = "为自己开辟一片精神自留地"
+
+[params.author]
+  name = "Archy Tseng"
+  email = "archyz_studio@163.com"
+  image = "images/archy-avatar.jpg"
+  imageQuality = 98
+  headline = "大家好，我叫 Archy。欢迎来到我的博客"
+  bio = "AI + 文化 领域的探索者"
+  links = [
+    { github = "https://github.com/ArchyTseng" },
+    { linkedin = "https://linkedin.com/in/shicheng-zeng-139169330" },
+    { email = "archyz_studio@163.com" },
+  ]

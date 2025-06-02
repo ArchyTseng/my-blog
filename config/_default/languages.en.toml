@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Archy's Blog"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  defaultAuthor = "Archy Tseng"
+  logo = "img/archy-avatar.jpg"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Build myself a mental garden"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Archy Tseng"
+  email = "archyz_studio@163.com"
+  image = "img/archy-avatar.jpg"  # put it in assets/img
+  imageQuality = 98
+  headline = "Hey, I'm Archy. Welcome to my Blog"
+  bio = "AI + Culture Explorer"
+  links = [
+    { github = "https://github.com/ArchyTseng" },
+    { linkedin = "https://linkedin.com/in/shicheng-zeng-139169330" },
+    { email = "archyz_studio@163.com" },
+  ]

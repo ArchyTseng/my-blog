@@ -1,0 +1,3 @@
+{{ $section := .Get 0 }}
+{{ $posts := where site.RegularPages "Section" $section }}
+{{ len $posts }}

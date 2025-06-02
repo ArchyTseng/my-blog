@@ -1,0 +1,133 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+# First Parent menu: Posts
+[[main]]
+  identifier = "posts"
+  name = "文章"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  identifier = "ai-ml"
+  name = "Ai-ML学习"
+  parent = "posts"
+  pageRef = "ai-ml"
+  weight = 11
+
+[[main]]
+  identifier = "leetcode"
+  name = "Leetcode刷题"
+  parent = "posts"
+  pageRef = "leetcode"
+  weight = 12
+
+[[main]]
+  identifier = "kaggle"
+  name = "Kaggle比赛"
+  parent = "posts"
+  pageRef = "kaggle"
+  weight = 13
+
+[[main]]
+  identifier = "thesis"
+  name = "论文解读"
+  parent = "posts"
+  pageRef = "thesis"
+  weight = 14
+
+[[main]]
+  identifier = "diary"
+  name = "日常记录"
+  parent = "posts"
+  pageRef = "diary"
+  weight = 15
+
+
+# Second Parent menu：Preference
+[[main]]
+  identifier = "preference"
+  name = "爱好"
+  pageRef = "preference"
+  weight = 20
+
+[[main]]
+  identifier = "movie"
+  name = "电影"
+  parent = "preference"
+  pageRef = "movie"
+  weight = 21
+
+[[main]]
+  identifier = "travel"
+  name = "旅游"
+  parent = "preference"
+  pageRef = "travel"
+  weight = 22
+
+[[main]]
+  identifier = "reading"
+  name = "阅读"
+  parent = "preference"
+  pageRef = "reading"
+  weight = 23
+
+# Other Separate menu
+[[main]]
+  identifier = "project"
+  name = "项目"
+  pageRef = "project"
+  weight = 30
+
+[[main]]
+  identifier = "about-me"
+  name = "个人简介"
+  pageRef = "about-me"
+  weight = 40
+
+#[[main]]
+#  name = "Test"
+#  pageRef = "pagTest"
+#  weight = 1000
+
+[[main]]
+  identifier = "linkedIn"
+  pre = "linkedIn"
+  url = "https://www.linkedin.com/in/shicheng-zeng-139169330/"
+  weight = 500
+
+#[[main]]
+#  identifier = "mastodon"
+#  pre = "mastodon"
+#  weight = 300
+#  url = "https://masto.ai/@blowfish"
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/ArchyTseng"
+  weight = 400
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "标签"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "个人简介"
+   pageRef = "about-me"
+   weight = 20
