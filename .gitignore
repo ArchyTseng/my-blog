@@ -1,0 +1,24 @@
+# Hugo build output
+/public/
+/resources/
+
+# Logs and local system files
+.DS_Store
+Thumbs.db
+
+# Node dependencies (if used)
+node_modules/
+
+# Hugo modules
+hugo_cache/
+
+# IDE/Editor metadata
+.idea/
+.vscode/
+
+# OS-generated files
+*.swp
+*.swo
+
+# Optional: prevent config backups or lockfiles
+config.toml.bak

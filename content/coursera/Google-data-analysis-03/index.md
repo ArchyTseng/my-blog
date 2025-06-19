@@ -1,0 +1,27 @@
+---
+title: "Coursera - Google Data Analysis 03"
+date: 2025-06-08T22:57:40+04:00
+lastmod: 2025-06-08T22:57:40+04:00
+draft: false
+slug: "Google-data-analysis-03"
+tags: ["selfstudy", "ai", "coursera", "google"]
+categories: ["coursera"]
+description: ""
+author: "Archy Tseng"
+series: ["Google Advanced Data Analysis"]
+series_order: 3
+---
+## Where data makes a difference for the future
+| **Industry**                   | **Overview**                                                                                                                                           | **How data is used**                                                                                                                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| App-driven business (sharing economy service) | Facilitates users acquiring, providing, or sharing access to goods and services, often through online or app-based communities                   | - Maintaining functioning mobile applications  <br> - Delivering customized content based on user history including discounts  <br> - Using machine learning models to send notifications at key times or even locations |
+| Automotive                    | Includes industries associated with the production, wholesaling, retailing, and maintenance of motor vehicles                                          | - Gaining greater control over their supply chains  <br> - Improving production line performance, and designing new and more efficient vehicles  <br> - Enhancing vehicle safety and new features |
+| Cybersecurity                 | Protects networks, devices, and data from unauthorized access or criminal use and the practice of maintaining confidentiality, integrity, and availability of information | - Locating weak points within networks and systems using predictive analytics  <br> - Defending against security attacks  <br> - Detecting data breaches through logic, models, and data tools  <br> - Improving the ability to identify attacks and respond to them with AI |
+| Digital marketing             | Assists in advertising and promotional efforts of companies using the internet and online technologies                                                  | - Translating customer interaction into actionable business data  <br> - Predicting user behaviors to personalize content and offers  <br> - Identifying patterns and trends that guide innovations  <br> - Determining the return on investment (ROI) of marketing efforts |
+| Energy                        | Includes companies that explore, produce, refine, market, store, and transport both renewable and non-renewable energy resources                       | - Analyzing real-time data from power systems and monitoring devices  <br> - Optimizing technologies, monitoring power grids, and predicting failures  <br> - Preventing accidents and malfunctions |
+| Gaming                        | Hosts an estimated 2.7 billion gamers worldwide, facilitating the interaction of players across the globe                                               | - Designing world-building and character creation systems  <br> - Monitoring character engagement and how the environment reacts to player input  <br> - Optimizing gameplay by identifying potential new features or upgrades  <br> - Regulating in-game purchases and fraud detection systems  <br> - Personalizing marketing campaigns |
+| Streaming media and entertainment | Provides access to live and recorded content on-demand, delivered via the internet to computers, smart devices, and mobile devices               | - Analyzing and monitoring user interactions to better understand customer sentiment  <br> - Matching users with advertisers with real-time analytics  <br> - Guiding future content decisions  <br> - Personalizing marketing campaigns |
+| Telecommunications            | Primarily involves operating and providing access to facilities for the transmission of voice, data, text, sound, and video                           | - Assisting the deployment, optimization, and predictive maintenance of telecommunications networks  <br> - Optimizing pricing models  <br> - Targeting advertisement and incentive campaigns, as well as detecting fraudulent activity  <br> - Analyzing customer data to customize subscriber plans |
+| Travel and tourism            | Encompasses a variety of services from transportation, accommodations, attractions, booking, and much more                                            | - Marketing to individuals based on their previous travel or searched destinations  <br> - Directing machine learning systems that can adjust a traveler’s itinerary based on set factors including weather and availability  <br> - Generating recommendations based on personal preferences and location-based discounts  <br> - Managing reservations and processing transactions |
+## Reference
+[GO TO >> ]({{< ref "" >}})

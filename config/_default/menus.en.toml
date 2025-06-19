@@ -50,8 +50,14 @@
   name = "Daily Record"
   parent = "posts"
   pageRef = "diary"
-  weight = 15
+  weight = 16
 
+[[main]]
+  identifier = "coursera"
+  name = "Coursera"
+  parent = "posts"
+  pageRef = "coursera"
+  weight = 15
 
 # Second Parent menu：Preference
 [[main]]
@@ -81,7 +87,7 @@
   pageRef = "reading"
   weight = 23
 
-# Other Separate menu
+# Third parent menu: Project
 [[main]]
   identifier = "project"
   name = "Project"
@@ -89,10 +95,17 @@
   weight = 30
 
 [[main]]
+  identifier = "project-SFVAgent"
+  name = "P1-SFVAgent"
+  parent = "project"
+  pageRef = "project-SFVAgent"
+  weight = 31
+
+[[main]]
   identifier = "about-me"
   name = "About"
   pageRef = "about-me"
-  weight = 40
+  weight = 50
 
 [[main]]
   identifier = "github"

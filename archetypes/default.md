@@ -1,5 +1,3 @@
-# archetypes/default.md
-# hugo new kaggle/house-price-predict.md  ## use for create a new article for the target section(in this line is "kaggle").
 ---
 title: "{{ .Section | title }} - {{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
@@ -13,3 +11,6 @@ author: "Archy Tseng"
 series: []
 series_order: ""
 ---
+
+## Reference
+[GO TO >> ]({{< ref "" >}})

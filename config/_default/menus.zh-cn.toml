@@ -46,11 +46,18 @@
   weight = 14
 
 [[main]]
+  identifier = "coursera"
+  name = "Coursera课程"
+  parent = "posts"
+  pageRef = "coursera"
+  weight = 15
+
+[[main]]
   identifier = "diary"
   name = "日常记录"
   parent = "posts"
   pageRef = "diary"
-  weight = 15
+  weight = 16
 
 
 # Second Parent menu：Preference
@@ -87,6 +94,13 @@
   name = "项目"
   pageRef = "project"
   weight = 30
+
+[[main]]
+  identifier = "project-videoAgent"
+  name = "videoAgent项目"
+  parent = "project"
+  pageRef = "project-videoAgent"
+  weight = 31
 
 [[main]]
   identifier = "about-me"

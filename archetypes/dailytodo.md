@@ -1,5 +1,3 @@
-# archetypes/dailytodo.md
-# hugo new diary/20250601.md --kind dailytodo  ## use for create a new diary article
 ---
 title: "{{ .Section | title }} - {{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
@@ -16,6 +14,10 @@ series_order: ""
 
 ## Daily To-Do List
 
+- English Study
+	- [ ]30 new words
+	- [ ]dictation exercise
+	- [ ]60 minuts speaking practice
 - AI / ML learning tasks
 	- [ ]
 	- [ ]
@@ -28,15 +30,11 @@ series_order: ""
 	- [ ]
 	- [ ]
 	- [ ]
-- English Study
-	- [ ]30 new words
-	- [ ]dictation exercise
-	- [ ]60 minuts speaking practice
 - Fitness exercise
 	- [ ]30 minuts exercise
 
 ---
 
-## Content
+## Insights
 
 <!-- more -->
