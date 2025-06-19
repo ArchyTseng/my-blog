@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Google on Archy's Blog</title><link>https://archytseng.github.io/my-blog/tags/google/</link><description>Recent content in Google on Archy's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>archyz_studio@163.com (Archy Tseng)</managingEditor><webMaster>archyz_studio@163.com (Archy Tseng)</webMaster><copyright>© 2025 Archy Tseng</copyright><lastBuildDate>Sun, 08 Jun 2025 22:57:40 +0400</lastBuildDate><atom:link href="https://archytseng.github.io/my-blog/tags/google/index.xml" rel="self" type="application/rss+xml"/><item><title>Coursera - Google Data Analysis 03</title><link>https://archytseng.github.io/my-blog/coursera/google-data-analysis-03/</link><pubDate>Sun, 08 Jun 2025 22:57:40 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/google-data-analysis-03/</guid><description>&lt;h2 class="relative group">Where data makes a difference for the future
+&lt;div id="where-data-makes-a-difference-for-the-future" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#where-data-makes-a-difference-for-the-future" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Industry&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Overview&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>How data is used&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>App-driven business (sharing economy service)&lt;/td>
+&lt;td>Facilitates users acquiring, providing, or sharing access to goods and services, often through online or app-based communities&lt;/td>
+&lt;td>- Maintaining functioning mobile applications &lt;br> - Delivering customized content based on user history including discounts &lt;br> - Using machine learning models to send notifications at key times or even locations&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Automotive&lt;/td>
+&lt;td>Includes industries associated with the production, wholesaling, retailing, and maintenance of motor vehicles&lt;/td>
+&lt;td>- Gaining greater control over their supply chains &lt;br> - Improving production line performance, and designing new and more efficient vehicles &lt;br> - Enhancing vehicle safety and new features&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cybersecurity&lt;/td>
+&lt;td>Protects networks, devices, and data from unauthorized access or criminal use and the practice of maintaining confidentiality, integrity, and availability of information&lt;/td>
+&lt;td>- Locating weak points within networks and systems using predictive analytics &lt;br> - Defending against security attacks &lt;br> - Detecting data breaches through logic, models, and data tools &lt;br> - Improving the ability to identify attacks and respond to them with AI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Digital marketing&lt;/td>
+&lt;td>Assists in advertising and promotional efforts of companies using the internet and online technologies&lt;/td>
+&lt;td>- Translating customer interaction into actionable business data &lt;br> - Predicting user behaviors to personalize content and offers &lt;br> - Identifying patterns and trends that guide innovations &lt;br> - Determining the return on investment (ROI) of marketing efforts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Energy&lt;/td>
+&lt;td>Includes companies that explore, produce, refine, market, store, and transport both renewable and non-renewable energy resources&lt;/td>
+&lt;td>- Analyzing real-time data from power systems and monitoring devices &lt;br> - Optimizing technologies, monitoring power grids, and predicting failures &lt;br> - Preventing accidents and malfunctions&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gaming&lt;/td>
+&lt;td>Hosts an estimated 2.7 billion gamers worldwide, facilitating the interaction of players across the globe&lt;/td>
+&lt;td>- Designing world-building and character creation systems &lt;br> - Monitoring character engagement and how the environment reacts to player input &lt;br> - Optimizing gameplay by identifying potential new features or upgrades &lt;br> - Regulating in-game purchases and fraud detection systems &lt;br> - Personalizing marketing campaigns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Streaming media and entertainment&lt;/td>
+&lt;td>Provides access to live and recorded content on-demand, delivered via the internet to computers, smart devices, and mobile devices&lt;/td>
+&lt;td>- Analyzing and monitoring user interactions to better understand customer sentiment &lt;br> - Matching users with advertisers with real-time analytics &lt;br> - Guiding future content decisions &lt;br> - Personalizing marketing campaigns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Telecommunications&lt;/td>
+&lt;td>Primarily involves operating and providing access to facilities for the transmission of voice, data, text, sound, and video&lt;/td>
+&lt;td>- Assisting the deployment, optimization, and predictive maintenance of telecommunications networks &lt;br> - Optimizing pricing models &lt;br> - Targeting advertisement and incentive campaigns, as well as detecting fraudulent activity &lt;br> - Analyzing customer data to customize subscriber plans&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Travel and tourism&lt;/td>
+&lt;td>Encompasses a variety of services from transportation, accommodations, attractions, booking, and much more&lt;/td>
+&lt;td>- Marketing to individuals based on their previous travel or searched destinations &lt;br> - Directing machine learning systems that can adjust a traveler’s itinerary based on set factors including weather and availability &lt;br> - Generating recommendations based on personal preferences and location-based discounts &lt;br> - Managing reservations and processing transactions&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 class="relative group">Reference
+&lt;div id="reference" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="">GO TO &amp;raquo; &lt;/a>&lt;/p></description></item><item><title>Coursera - Google Data Analysis 02</title><link>https://archytseng.github.io/my-blog/coursera/google-data-analysis-02/</link><pubDate>Sun, 08 Jun 2025 22:41:14 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/google-data-analysis-02/</guid><description>&lt;h2 class="relative group">Profiles of data professionals
+&lt;div id="profiles-of-data-professionals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#profiles-of-data-professionals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Data scientist and data analyst
+&lt;div id="data-scientist-and-data-analyst" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-scientist-and-data-analyst" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Key attributes
+&lt;div id="key-attributes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-attributes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>What they do&lt;/strong>: Uncover trends, patterns, and insights from data&lt;/li>
+&lt;li>&lt;strong>How they do it&lt;/strong>: Employ advanced modeling and statistical analytics techniques&lt;/li>
+&lt;li>Entry-level data scientist or analyst positions may not require considerable data analysis experience and be less restrictive about requiring those hired to hold a traditional degree.&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Sample job titles
+&lt;div id="sample-job-titles" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sample-job-titles" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Data scientist&lt;/li>
+&lt;li>Marketing analyst&lt;/li>
+&lt;li>Data analyst&lt;/li>
+&lt;li>AI analyst&lt;/li>
+&lt;li>Business analyst&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Data management and infrastructure
+&lt;div id="data-management-and-infrastructure" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-management-and-infrastructure" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Key attributes
+&lt;div id="key-attributes-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-attributes-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>What they do&lt;/strong>: Manage data sources and the overall data infrastructure&lt;/li>
+&lt;li>&lt;strong>How they do it&lt;/strong>: Work with the tools and databases used to manage data within a business&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Sample job titles
+&lt;div id="sample-job-titles-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sample-job-titles-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Data engineer&lt;/li>
+&lt;li>Technology engineer&lt;/li>
+&lt;li>Data manager&lt;/li>
+&lt;li>Data steward&lt;/li>
+&lt;li>IT architect&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Business intelligence
+&lt;div id="business-intelligence" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#business-intelligence" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Key attributes
+&lt;div id="key-attributes-2" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-attributes-2" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>What they do&lt;/strong>: Perform predictive analysis that enables organizations to determine likely future trends&lt;/li>
+&lt;li>&lt;strong>How they do it&lt;/strong>: Create tables, reports and dashboards that empower their organization&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Sample job titles
+&lt;div id="sample-job-titles-2" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sample-job-titles-2" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>BI architect&lt;/li>
+&lt;li>BI analyst&lt;/li>
+&lt;li>BI solution developer&lt;/li>
+&lt;li>BI software engineer&lt;/li>
+&lt;li>Data viz &amp;amp; BI analyst&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Additional roles for data professionals
+&lt;div id="additional-roles-for-data-professionals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#additional-roles-for-data-professionals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h3 class="relative group">Product development teams
+&lt;div id="product-development-teams" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#product-development-teams" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>The professionals in these roles manage a portfolio of customer and stakeholder analytic projects and initiatives. They often manage the analytical strategy for the organization. In these roles, experience is most likely required, and responsibilities are larger and more global.&lt;/p></description></item><item><title>Coursera - Google Data Analysis 01</title><link>https://archytseng.github.io/my-blog/coursera/google-data-analysis-01/</link><pubDate>Wed, 04 Jun 2025 05:32:37 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/google-data-analysis-01/</guid><description>&lt;h2 class="relative group">1.What can I learn from the Course?
+&lt;div id="1what-can-i-learn-from-the-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1what-can-i-learn-from-the-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>After completing all seven courses, Google Advanced Data Analytics Certificate graduates get access to exclusive job search resources, courtesy of Google. You’ll have the opportunity to:
+&lt;ul>
+&lt;li>Build your resume, participate in mock interviews, and receive job search tips through Big Interview, a job-training platform that’s free for program graduates.&lt;/li>
+&lt;li>Improve your interview technique with Interview Warmup, a tool built by Google with certificate graduates in mind. Access data analytics-specific practice questions, transcripts of your responses, and automatic insights that help you grow your skills and confidence.&lt;/li>
+&lt;li>Access thousands of job postings and free one-on-one career coaching with Career Circle. (You must be eligible to work in the U.S. to join.)&lt;/li>
+&lt;li>Claim your Google Advanced Data Analytics Certificate badge, and share your achievement on LinkedIn to stand out among other candidates to potential employers.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">2.What is the Structure of the Course?
+&lt;div id="2what-is-the-structure-of-the-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2what-is-the-structure-of-the-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>01-Foundations of Data Science&lt;/li>
+&lt;li>02-Get Started with Python&lt;/li>
+&lt;li>03-Go Beyond the Numbers: Translate Data into Insights&lt;/li>
+&lt;li>04-The Power of Statistics&lt;/li>
+&lt;li>05-Regression Analysis: Simplify Conplex Data Relationships&lt;/li>
+&lt;li>06-The Nuts and Bolts of Machine Learning&lt;/li>
+&lt;li>07-Google Advanced Data Analystics Capstone&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">My Study Plan
+&lt;div id="my-study-plan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#my-study-plan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Entire Study Plan: 6 weeks
+&lt;ul>
+&lt;li>Week 1: 06.03 - 06.08
+&lt;ul>
+&lt;li>Module 01 - 02&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 2: 06.09 - 06.15
+&lt;ul>
+&lt;li>Module 03&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 3: 06.16 - 06.22
+&lt;ul>
+&lt;li>Module 04&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 4: 06.23 - 06.29
+&lt;ul>
+&lt;li>Module 05&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 5: 06.30 - 07.06
+&lt;ul>
+&lt;li>Module 06&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 6: 07.07 - 07.13
+&lt;ul>
+&lt;li>Module 06&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Today&amp;rsquo;s Study Note
+&lt;div id="todays-study-note" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#todays-study-note" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Module Name: Foundations of Data Science - Introduction of data science concepts&lt;/p></description></item></channel></rss>

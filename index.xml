@@ -1,25 +1,949 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Content on Archy&#39;s Blog</title>
-    <link>https://archytseng.github.io/my-blog/</link>
-    <description>Recent content in Content on Archy&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>archyz_studio@163.com (Archy Tseng)</managingEditor>
-    <webMaster>archyz_studio@163.com (Archy Tseng)</webMaster>
-    <copyright>© 2025 Archy Tseng</copyright>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://archytseng.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title></title>
-      <link>https://archytseng.github.io/my-blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>archyz_studio@163.com (Archy Tseng)</author>
-      <guid>https://archytseng.github.io/my-blog/about/</guid>
-      <description></description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content on Archy's Blog</title><link>https://archytseng.github.io/my-blog/</link><description>Recent content in Content on Archy's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>archyz_studio@163.com (Archy Tseng)</managingEditor><webMaster>archyz_studio@163.com (Archy Tseng)</webMaster><copyright>© 2025 Archy Tseng</copyright><lastBuildDate>Mon, 16 Jun 2025 22:17:42 +0400</lastBuildDate><atom:link href="https://archytseng.github.io/my-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Project-SFVAgent - Project Outline</title><link>https://archytseng.github.io/my-blog/project-sfvagent/project-outline/</link><pubDate>Mon, 16 Jun 2025 22:17:42 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/project-sfvagent/project-outline/</guid><description>&lt;h2 class="relative group">1. Title
+&lt;div id="1-title" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-title" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&amp;ldquo;&lt;strong>SFVAgent: A Lightweight Short-Form-Video Agent by introducing Cross-Modal Alignment and Dynamic Multi-Agent Orchestration Strategies&lt;/strong>&amp;quot;&lt;br>
+《短视频智能体：跨模态对齐驱动的动态多智能体编排的轻量级的短视频智能体应用》&lt;/p></description></item><item><title>Coursera - Google Data Analysis 03</title><link>https://archytseng.github.io/my-blog/coursera/google-data-analysis-03/</link><pubDate>Sun, 08 Jun 2025 22:57:40 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/google-data-analysis-03/</guid><description>&lt;h2 class="relative group">Where data makes a difference for the future
+&lt;div id="where-data-makes-a-difference-for-the-future" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#where-data-makes-a-difference-for-the-future" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Industry&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Overview&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>How data is used&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>App-driven business (sharing economy service)&lt;/td>
+&lt;td>Facilitates users acquiring, providing, or sharing access to goods and services, often through online or app-based communities&lt;/td>
+&lt;td>- Maintaining functioning mobile applications &lt;br> - Delivering customized content based on user history including discounts &lt;br> - Using machine learning models to send notifications at key times or even locations&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Automotive&lt;/td>
+&lt;td>Includes industries associated with the production, wholesaling, retailing, and maintenance of motor vehicles&lt;/td>
+&lt;td>- Gaining greater control over their supply chains &lt;br> - Improving production line performance, and designing new and more efficient vehicles &lt;br> - Enhancing vehicle safety and new features&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cybersecurity&lt;/td>
+&lt;td>Protects networks, devices, and data from unauthorized access or criminal use and the practice of maintaining confidentiality, integrity, and availability of information&lt;/td>
+&lt;td>- Locating weak points within networks and systems using predictive analytics &lt;br> - Defending against security attacks &lt;br> - Detecting data breaches through logic, models, and data tools &lt;br> - Improving the ability to identify attacks and respond to them with AI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Digital marketing&lt;/td>
+&lt;td>Assists in advertising and promotional efforts of companies using the internet and online technologies&lt;/td>
+&lt;td>- Translating customer interaction into actionable business data &lt;br> - Predicting user behaviors to personalize content and offers &lt;br> - Identifying patterns and trends that guide innovations &lt;br> - Determining the return on investment (ROI) of marketing efforts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Energy&lt;/td>
+&lt;td>Includes companies that explore, produce, refine, market, store, and transport both renewable and non-renewable energy resources&lt;/td>
+&lt;td>- Analyzing real-time data from power systems and monitoring devices &lt;br> - Optimizing technologies, monitoring power grids, and predicting failures &lt;br> - Preventing accidents and malfunctions&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gaming&lt;/td>
+&lt;td>Hosts an estimated 2.7 billion gamers worldwide, facilitating the interaction of players across the globe&lt;/td>
+&lt;td>- Designing world-building and character creation systems &lt;br> - Monitoring character engagement and how the environment reacts to player input &lt;br> - Optimizing gameplay by identifying potential new features or upgrades &lt;br> - Regulating in-game purchases and fraud detection systems &lt;br> - Personalizing marketing campaigns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Streaming media and entertainment&lt;/td>
+&lt;td>Provides access to live and recorded content on-demand, delivered via the internet to computers, smart devices, and mobile devices&lt;/td>
+&lt;td>- Analyzing and monitoring user interactions to better understand customer sentiment &lt;br> - Matching users with advertisers with real-time analytics &lt;br> - Guiding future content decisions &lt;br> - Personalizing marketing campaigns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Telecommunications&lt;/td>
+&lt;td>Primarily involves operating and providing access to facilities for the transmission of voice, data, text, sound, and video&lt;/td>
+&lt;td>- Assisting the deployment, optimization, and predictive maintenance of telecommunications networks &lt;br> - Optimizing pricing models &lt;br> - Targeting advertisement and incentive campaigns, as well as detecting fraudulent activity &lt;br> - Analyzing customer data to customize subscriber plans&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Travel and tourism&lt;/td>
+&lt;td>Encompasses a variety of services from transportation, accommodations, attractions, booking, and much more&lt;/td>
+&lt;td>- Marketing to individuals based on their previous travel or searched destinations &lt;br> - Directing machine learning systems that can adjust a traveler’s itinerary based on set factors including weather and availability &lt;br> - Generating recommendations based on personal preferences and location-based discounts &lt;br> - Managing reservations and processing transactions&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 class="relative group">Reference
+&lt;div id="reference" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="">GO TO &amp;raquo; &lt;/a>&lt;/p></description></item><item><title>Coursera - Google Data Analysis 02</title><link>https://archytseng.github.io/my-blog/coursera/google-data-analysis-02/</link><pubDate>Sun, 08 Jun 2025 22:41:14 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/google-data-analysis-02/</guid><description>&lt;h2 class="relative group">Profiles of data professionals
+&lt;div id="profiles-of-data-professionals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#profiles-of-data-professionals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Data scientist and data analyst
+&lt;div id="data-scientist-and-data-analyst" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-scientist-and-data-analyst" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Key attributes
+&lt;div id="key-attributes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-attributes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>What they do&lt;/strong>: Uncover trends, patterns, and insights from data&lt;/li>
+&lt;li>&lt;strong>How they do it&lt;/strong>: Employ advanced modeling and statistical analytics techniques&lt;/li>
+&lt;li>Entry-level data scientist or analyst positions may not require considerable data analysis experience and be less restrictive about requiring those hired to hold a traditional degree.&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Sample job titles
+&lt;div id="sample-job-titles" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sample-job-titles" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Data scientist&lt;/li>
+&lt;li>Marketing analyst&lt;/li>
+&lt;li>Data analyst&lt;/li>
+&lt;li>AI analyst&lt;/li>
+&lt;li>Business analyst&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Data management and infrastructure
+&lt;div id="data-management-and-infrastructure" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-management-and-infrastructure" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Key attributes
+&lt;div id="key-attributes-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-attributes-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>What they do&lt;/strong>: Manage data sources and the overall data infrastructure&lt;/li>
+&lt;li>&lt;strong>How they do it&lt;/strong>: Work with the tools and databases used to manage data within a business&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Sample job titles
+&lt;div id="sample-job-titles-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sample-job-titles-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Data engineer&lt;/li>
+&lt;li>Technology engineer&lt;/li>
+&lt;li>Data manager&lt;/li>
+&lt;li>Data steward&lt;/li>
+&lt;li>IT architect&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Business intelligence
+&lt;div id="business-intelligence" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#business-intelligence" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">Key attributes
+&lt;div id="key-attributes-2" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-attributes-2" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>What they do&lt;/strong>: Perform predictive analysis that enables organizations to determine likely future trends&lt;/li>
+&lt;li>&lt;strong>How they do it&lt;/strong>: Create tables, reports and dashboards that empower their organization&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Sample job titles
+&lt;div id="sample-job-titles-2" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sample-job-titles-2" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>BI architect&lt;/li>
+&lt;li>BI analyst&lt;/li>
+&lt;li>BI solution developer&lt;/li>
+&lt;li>BI software engineer&lt;/li>
+&lt;li>Data viz &amp;amp; BI analyst&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Additional roles for data professionals
+&lt;div id="additional-roles-for-data-professionals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#additional-roles-for-data-professionals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h3 class="relative group">Product development teams
+&lt;div id="product-development-teams" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#product-development-teams" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>The professionals in these roles manage a portfolio of customer and stakeholder analytic projects and initiatives. They often manage the analytical strategy for the organization. In these roles, experience is most likely required, and responsibilities are larger and more global.&lt;/p></description></item><item><title>Coursera - IBM Ai Engineering 04</title><link>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-04/</link><pubDate>Sun, 08 Jun 2025 15:31:59 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-04/</guid><description>&lt;h2 class="relative group">Today&amp;rsquo;s Study Notes
+&lt;div id="todays-study-notes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#todays-study-notes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Recap
+&lt;div id="recap" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#recap" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Regression models relationships between a continuous target variable and explanatory features, covering simple and multiple regression types.&lt;/p></description></item><item><title>Ai-Ml - Linear Algorithm</title><link>https://archytseng.github.io/my-blog/ai-ml/linear-algorithm/</link><pubDate>Fri, 06 Jun 2025 10:12:10 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/ai-ml/linear-algorithm/</guid><description>&lt;h2 class="relative group">
+&lt;div id="" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Reference
+&lt;div id="reference" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="">GO TO &amp;raquo; &lt;/a>&lt;/p></description></item><item><title>Diary - 20250606</title><link>https://archytseng.github.io/my-blog/diary/20250606/</link><pubDate>Fri, 06 Jun 2025 09:59:45 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/diary/20250606/</guid><description>&lt;h2 class="relative group">Daily To-Do List
+&lt;div id="daily-to-do-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#daily-to-do-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>English Study
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 30 new words&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> 3 dictation exercises (finished at 8:00am)&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 60 minuts speaking practice&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AI / ML learning tasks
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> IBM- Module 1 02&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Google - Module 1 01&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Machine Learning : linear regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Project Process
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Reading Plan（Thesis / Book）
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Fitness exercise
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 30 minuts exercise&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">Insights
+&lt;div id="insights" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#insights" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;!-- more -->
+&lt;h2 class="relative group">Dictation Sentences
+&lt;div id="dictation-sentences" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dictation-sentences" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>There are three things I have learned never to discuss with people: Religion, Politics, and the Great Pumpkin.&lt;/li>
+&lt;li>Don&amp;rsquo;t ever let somebody tell you : you can&amp;rsquo;t do something.&lt;/li>
+&lt;li>I have come here to chew bubblegum and kick ass&amp;hellip; and I&amp;rsquo;m all out of bubblegum.&lt;/li>
+&lt;/ol></description></item><item><title>Coursera - IBM Ai Engineering 03</title><link>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-03/</link><pubDate>Thu, 05 Jun 2025 21:12:14 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-03/</guid><description>&lt;h2 class="relative group">Today&amp;rsquo;s Study Note
+&lt;div id="todays-study-note" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#todays-study-note" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">1. Introduction to Multiple linear regression
+&lt;div id="1-introduction-to-multiple-linear-regression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-introduction-to-multiple-linear-regression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">1.1 purpose of learning
+&lt;div id="11-purpose-of-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#11-purpose-of-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Describe Multiple linear regression&lt;/li>
+&lt;li>Compare Multiple linear regression and simple linear regression&lt;/li>
+&lt;li>List the pitfalls of multiple linear regression&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">1.2 What is Multiple Linear Regression
+&lt;div id="12-what-is-multiple-linear-regression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#12-what-is-multiple-linear-regression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Extension of simple linear regression&lt;/li>
+&lt;li>Formula: \(\hat{y} = \theta^{T} \mathbf X\)&lt;/li>
+&lt;li>Require independent variables&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">1.3 Comparison
+&lt;div id="13-comparison" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#13-comparison" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>MLR better model than SLR&lt;/li>
+&lt;li>Too many features make it easy to overfit&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">1.4 &amp;ldquo;What-if&amp;rdquo; scenario Pitfalls
+&lt;div id="14-what-if-scenario-pitfalls" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#14-what-if-scenario-pitfalls" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Inaccurate findings:
+&lt;ul>
+&lt;li>considering impossible scenario&lt;/li>
+&lt;li>extrapolating scenario&lt;/li>
+&lt;li>model might depend on a group of correlated or colinear variables&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">1.5 Solution to correlation Pitfalls
+&lt;div id="15-solution-to-correlation-pitfalls" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#15-solution-to-correlation-pitfalls" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Remove redundant variables&lt;/li>
+&lt;li>select variables which are:
+&lt;ul>
+&lt;li>Most understood&lt;/li>
+&lt;li>Controllable&lt;/li>
+&lt;li>Most correlated with target&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">1.6 Recap
+&lt;div id="16-recap" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#16-recap" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>The most common methods to estimate multiple regression parameters are ordinary &lt;strong>least square&lt;/strong>(Loss Function) and &lt;strong>optimization with random values&lt;/strong>(Gradient Descent)&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Reference
+&lt;div id="reference" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="">GO TO &amp;raquo; &lt;/a>&lt;/p></description></item><item><title>Coursera - IBM Ai Engineering 02</title><link>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-02/</link><pubDate>Wed, 04 Jun 2025 12:23:12 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-02/</guid><description>&lt;h2 class="relative group">Today&amp;rsquo;s Study Notes :
+&lt;div id="todays-study-notes-" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#todays-study-notes-" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">1.Introduction to Regression Algorithms
+&lt;div id="1introduction-to-regression-algorithms" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1introduction-to-regression-algorithms" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">1.1 Purpose for learning this course:
+&lt;div id="11-purpose-for-learning-this-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#11-purpose-for-learning-this-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Define Regression&lt;/li>
+&lt;li>Compare simple and multiple regression&lt;/li>
+&lt;li>Explain applications of regression&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">1.2 Study Notes:
+&lt;div id="12-study-notes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#12-study-notes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Regression Algorithms
+&lt;ul>
+&lt;li>Linear and polynomial&lt;/li>
+&lt;li>Random forest&lt;/li>
+&lt;li>Extreme Gradient Boosting(XGBoost)&lt;/li>
+&lt;li>K-nearest neighpbors(KNN)&lt;/li>
+&lt;li>Support vector machines(SVM)&lt;/li>
+&lt;li>Neural network&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Recap
+&lt;ul>
+&lt;li>Regression is a machine learning technique
+&lt;ul>
+&lt;li>Models the relationship between continuous target variables and explanatory features&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>In &lt;strong>simple regession&lt;/strong>, a single independent variable estimates a dependent variable(can be linear or nonlinear)&lt;/li>
+&lt;li>In &lt;strong>multiple regession&lt;/strong>, multiple independent variables estimate a dependent variable(can be linear or nonlinear)&lt;/li>
+&lt;li>Regression can be used to:
+&lt;ul>
+&lt;li>Forecast sales&lt;/li>
+&lt;li>Predict maintenance&lt;/li>
+&lt;li>Estimate rainfall&lt;/li>
+&lt;li>Predict the spread of infectious disease(传染病)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">2.Introduction to Simple Linear Regression
+&lt;div id="2introduction-to-simple-linear-regression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2introduction-to-simple-linear-regression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;h4 class="relative group">2.1 Purpose for learning this course:
+&lt;div id="21-purpose-for-learning-this-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#21-purpose-for-learning-this-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Describe simple linear regression&lt;/li>
+&lt;li>Explain how simple linear regression works&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">2.2 Study Notes:
+&lt;div id="22-study-notes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#22-study-notes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ul>
+&lt;li>Linear regression formula:
+&lt;ul>
+&lt;li>\(y^{hat} = \theta_0 + \theta_1 x_1\)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>MSE : mean squeared error
+&lt;ul>
+&lt;li>commonly known as ordinary least squares regression(OLS, 普通最小二乘法回归)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Pros and Cons
+&lt;ul>
+&lt;li>Pros : Simple and easy to understand&lt;/li>
+&lt;li>Cons : its accuracy can be greatly reduced by outliers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Reference
+&lt;div id="reference" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://archytseng.github.io/my-blog/diary/20250604/">GO TO &amp;raquo; Daily Record - 20250604&lt;/a>&lt;/p></description></item><item><title>Coursera - Google Data Analysis 01</title><link>https://archytseng.github.io/my-blog/coursera/google-data-analysis-01/</link><pubDate>Wed, 04 Jun 2025 05:32:37 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/google-data-analysis-01/</guid><description>&lt;h2 class="relative group">1.What can I learn from the Course?
+&lt;div id="1what-can-i-learn-from-the-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1what-can-i-learn-from-the-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>After completing all seven courses, Google Advanced Data Analytics Certificate graduates get access to exclusive job search resources, courtesy of Google. You’ll have the opportunity to:
+&lt;ul>
+&lt;li>Build your resume, participate in mock interviews, and receive job search tips through Big Interview, a job-training platform that’s free for program graduates.&lt;/li>
+&lt;li>Improve your interview technique with Interview Warmup, a tool built by Google with certificate graduates in mind. Access data analytics-specific practice questions, transcripts of your responses, and automatic insights that help you grow your skills and confidence.&lt;/li>
+&lt;li>Access thousands of job postings and free one-on-one career coaching with Career Circle. (You must be eligible to work in the U.S. to join.)&lt;/li>
+&lt;li>Claim your Google Advanced Data Analytics Certificate badge, and share your achievement on LinkedIn to stand out among other candidates to potential employers.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">2.What is the Structure of the Course?
+&lt;div id="2what-is-the-structure-of-the-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2what-is-the-structure-of-the-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>01-Foundations of Data Science&lt;/li>
+&lt;li>02-Get Started with Python&lt;/li>
+&lt;li>03-Go Beyond the Numbers: Translate Data into Insights&lt;/li>
+&lt;li>04-The Power of Statistics&lt;/li>
+&lt;li>05-Regression Analysis: Simplify Conplex Data Relationships&lt;/li>
+&lt;li>06-The Nuts and Bolts of Machine Learning&lt;/li>
+&lt;li>07-Google Advanced Data Analystics Capstone&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">My Study Plan
+&lt;div id="my-study-plan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#my-study-plan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Entire Study Plan: 6 weeks
+&lt;ul>
+&lt;li>Week 1: 06.03 - 06.08
+&lt;ul>
+&lt;li>Module 01 - 02&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 2: 06.09 - 06.15
+&lt;ul>
+&lt;li>Module 03&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 3: 06.16 - 06.22
+&lt;ul>
+&lt;li>Module 04&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 4: 06.23 - 06.29
+&lt;ul>
+&lt;li>Module 05&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 5: 06.30 - 07.06
+&lt;ul>
+&lt;li>Module 06&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 6: 07.07 - 07.13
+&lt;ul>
+&lt;li>Module 06&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Today&amp;rsquo;s Study Note
+&lt;div id="todays-study-note" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#todays-study-note" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Module Name: Foundations of Data Science - Introduction of data science concepts&lt;/p></description></item><item><title>Diary - 20250604</title><link>https://archytseng.github.io/my-blog/diary/20250604/</link><pubDate>Wed, 04 Jun 2025 05:26:14 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/diary/20250604/</guid><description>&lt;h2 class="relative group">Daily To-Do List
+&lt;div id="daily-to-do-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#daily-to-do-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>AI / ML learning tasks
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> IBM course modul 02/03&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Google course modul 01/02&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Linear regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Project Process
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Make outline for the project&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> talk with my supervisor&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Reading Plan（Thesis / Book）
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 10 pages of &amp;ldquo;Zeng Guofan&amp;rdquo;&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>English Study
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 30 new words&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> dictation exercise&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 60 minuts speaking practice&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Fitness exercise
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 30 minuts exercise&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">Insights
+&lt;div id="insights" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#insights" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;!-- more -->
+&lt;h2 class="relative group">English Study
+&lt;div id="english-study" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#english-study" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">New words and expressions
+&lt;div id="new-words-and-expressions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#new-words-and-expressions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ol>
+&lt;li>analytics : n. 通过分析所得数据；（电脑的）分析方法&lt;/li>
+&lt;li>accelerate : vt. &amp;amp; vi. (使)加快, (使)增速&lt;/li>
+&lt;li>leverage : vt. 促使…改变 ; n. 〈物〉杠杆作用, 杠杆的力量&lt;/li>
+&lt;li>incorporate : vt. 包含, 加上, 吸收 ; 把…合并, 使并入
+&lt;ul>
+&lt;li>corporation : n. 公司(多指一个人拥有或多人联办的大公司，也指在其它地区或国家拥有分公司的公司)&lt;/li>
+&lt;li>cooperate : vi. 合作；配合，协助&lt;/li>
+&lt;li>cooperation : n. 合作&lt;/li>
+&lt;li>cooperative : adj. 合作的, 协作的&lt;/li>
+&lt;li>collaboration: n. 合作, 协作&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>articulate : v. 明确表达；清楚说明&lt;/li>
+&lt;li>reveal the stories within the data : 解读/揭露 数据背后的故事
+&lt;ul>
+&lt;li>uncover : 揭露&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>provide insight into trends : 为未来趋势提供见解&lt;/li>
+&lt;li>encounter : vt. 遇到, 遭遇&lt;/li>
+&lt;li>get access to : 获取，获得; e.g. get access to exclusive job search resources&lt;/li>
+&lt;li>courtesy of : 经由…提供；蒙…好意&lt;/li>
+&lt;li>the vision of : 对…的视野，看法&lt;/li>
+&lt;li>ethic : n. 道德准则&lt;/li>
+&lt;li>explore descriptive and inferential statistics ： 探索可描述的、可推理的统计&lt;/li>
+&lt;li>confidence interval : 置信区间，可靠区间&lt;/li>
+&lt;li>competence : n. 能力, 技能&lt;/li>
+&lt;li>acquire : vt. 获得, 得到, 养成 ; n. 收获&lt;/li>
+&lt;li>progress : n. 进步&lt;/li>
+&lt;li>hesitate to : 犹豫做某事&lt;/li>
+&lt;li>trajectory : n. &amp;lt;物&amp;gt;弹道，轨迹；轨道&lt;/li>
+&lt;li>tactic : n. 方法, 策略&lt;/li>
+&lt;li>concentrate on : 专注于 (same as &amp;ldquo;be focus on&amp;rdquo;)&lt;/li>
+&lt;li>become more complecated : 变得越来越复杂&lt;/li>
+&lt;li>assemble : v. 召集，组织&lt;/li>
+&lt;li>as opposed to : 而不是&amp;hellip;&lt;/li>
+&lt;li>comprise : vt. 包含；由…组成 ; be comprised of / be constructed by&lt;/li>
+&lt;li>occupation : n. 职业，工作&lt;/li>
+&lt;li>meteorological : adj. 与气象学有关的, 气象的
+&lt;ul>
+&lt;li>temperature&lt;/li>
+&lt;li>humidity&lt;/li>
+&lt;li>wind speed&lt;/li>
+&lt;li>air pressure&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>discrepancy : n. 差异，不符合(之处)；不一致(之处) (在机器学习中等同于 loss)&lt;/li>
+&lt;li>coefficient : n. 系数；(测定某种质量或变化过程的)率，程度；系数&lt;/li>
+&lt;li>Pros / Cons : 优缺点
+&lt;ul>
+&lt;li>Strengths / Weaknesses&lt;/li>
+&lt;li>Upsides / Downsides&lt;/li>
+&lt;li>Benefits / Drawbacks&lt;/li>
+&lt;li>Pluses / Minuses&lt;/li>
+&lt;li>Gains / Losses&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol></description></item><item><title>Coursera - IBM Ai Engineering Module 1 - unit 1</title><link>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-01/</link><pubDate>Tue, 03 Jun 2025 11:22:09 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/coursera/ibm-ai-engineering-01/</guid><description>&lt;h2 class="relative group">1.What can I get from this course?
+&lt;div id="1what-can-i-get-from-this-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1what-can-i-get-from-this-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>This PC is specifically designed to help you build the practical experience employers look for. Throughout the program, you’ll apply your skills in hands-on labs and projects that fine-tune your new competencies. You’ll:
+&lt;ul>
+&lt;li>Build deep learning models and neural networks using Keras, PyTorch, and TensorFlow.
+&lt;br>学会通过Keras, PyTorch, TensorFlow来创建深度学习模型和神经网络。&lt;/li>
+&lt;li>Implement supervised and unsupervised machine learning models using SciPy and Scikit-Learn, positional encoding, masking, attention mechanism, and document classification.
+&lt;br>通过使用 SciPy, Scikit-Learn, 位置编码，掩蔽，注意力机制和文档分类来学习应用有监督和无监督机器学习模型。&lt;/li>
+&lt;li>Create LLMs like GPT and BERT.
+&lt;br>创建一个类似 GPT 和 BERT 的大语言模型。&lt;/li>
+&lt;li>Develop transfer learning applications in NLP using major language model frameworks like LangChain, Hugging Face, &amp;amp; PyTorch.
+&lt;br>使用主流语言模型框架（比如 LangChain, Hugging Face, PyTorch）开发 迁移学习应用。&lt;/li>
+&lt;li>Set up a Gradio interface for model interaction and construct a QA bot using LangChain and LLM to answer questions from loaded documents.
+&lt;br>搭建一个 Gradio 界面实现模型交互，并借助 LangChain 和大语言模型（LLM）构建问答机器人，用于回答从已加载文档中提取的问题。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">2.What is the structure of the Course?
+&lt;div id="2what-is-the-structure-of-the-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2what-is-the-structure-of-the-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>01-Machine Learning with Python&lt;/li>
+&lt;li>02-Introduction Deep Learning &amp;amp; Neural Networks with Keras&lt;/li>
+&lt;li>03-Deep Learning with Keras and TensorFlow&lt;/li>
+&lt;li>04-Introduction to Neural Networks and PyTorch&lt;/li>
+&lt;li>05-Deep Learning with PyTorch&lt;/li>
+&lt;li>06-AI Capstone Project with Deep Learning&lt;/li>
+&lt;li>07-Generative AI and LLMs: Architecture and Data Preparation&lt;/li>
+&lt;li>08-Gen AI Foundational Models for NLP &amp;amp; Language Understanding&lt;/li>
+&lt;li>09-Generative AI Language Modeling with Transformers&lt;/li>
+&lt;li>10-Generative AI Engineering and Fine-Tuning Transformers&lt;/li>
+&lt;li>11-Generative AI Advanced Fine-Tuning For LLMs&lt;/li>
+&lt;li>12-Foundamentals of AI Agents Using RAG and LangChain&lt;/li>
+&lt;li>13-Project: Generative AI Applications with RAG and LangChain&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">3.My Study Plan
+&lt;div id="3my-study-plan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#3my-study-plan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Entire Study Plan: 6 weeks
+&lt;ul>
+&lt;li>Week 1: 06.03 - 06.08
+&lt;ul>
+&lt;li>Module 01 - 03&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 2: 06.09 - 06.15
+&lt;ul>
+&lt;li>Module 04 - 06&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 3: 06.16 - 06.22
+&lt;ul>
+&lt;li>Module 07 - 08&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 4: 06.23 - 06.29
+&lt;ul>
+&lt;li>Module 09 - 11&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 5: 06.30 - 07.06
+&lt;ul>
+&lt;li>Module 12 - 13&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Week 6: 07.07 - 07.13
+&lt;ul>
+&lt;li>For unexpected Plan changes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">4.Today&amp;rsquo;s Study
+&lt;div id="4todays-study" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#4todays-study" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Modul Name: Introduction to Machine Learning&lt;/strong>&lt;/li>
+&lt;li>Learn the overview of Machine Learning with Python
+&lt;ul>
+&lt;li>&lt;strong>Python and its Libraries :&lt;/strong> Numpy, Pandas, Matplotlib, SciPy, Scikit-Learn&lt;/li>
+&lt;li>&lt;strong>Machine Learning lifecycle:&lt;/strong>
+&lt;ul>
+&lt;li>Problem Definition&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;li>Data Preparation&lt;/li>
+&lt;li>Model Development and Evaluation&lt;/li>
+&lt;li>Model Deployment&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>The differences between Data scientists and AI engineering:&lt;/strong>
+&lt;ul>
+&lt;li>Data Type: structured data vs unstructured data&lt;/li>
+&lt;li>Use Case: EDA(Exploration Data Analysis) vs Dicision Optimisation&lt;/li>
+&lt;li>Model Feature: various kinds of models with small scap and smaller parameter size vs foundational model of large scap and large parameter size&lt;/li>
+&lt;li>Process speed: Second ~ Hour vs Days ~ Months&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Reference
+&lt;div id="reference" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reference" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://archytseng.github.io/my-blog/diary/20250603/">GO TO &amp;raquo; Daily Record - 20250603&lt;/a>&lt;/p></description></item><item><title>Diary - 20250603</title><link>https://archytseng.github.io/my-blog/diary/20250603/</link><pubDate>Mon, 02 Jun 2025 22:06:07 +0400</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/diary/20250603/</guid><description>&lt;h2 class="relative group">Daily To-Do List
+&lt;div id="daily-to-do-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#daily-to-do-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>AI / ML learning tasks
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> begin two Coursera courses&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> learn KNN algoritm&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> learn Linear Regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Project Process
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> create a general outline for project&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> make a project plan and write down as a blog document&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Reading Plan（Thesis / Book）
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 10 pages of &amp;ldquo;The life of Zeng Guofan&amp;rdquo;&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>English Study
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 30 new words&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> dictation exercise&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 60 minuts speaking practice&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Fitness exercise
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 30 minuts exercise&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">Insights
+&lt;div id="insights" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#insights" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;!-- more -->
+&lt;h3 class="relative group">AI / ML learning
+&lt;div id="ai--ml-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai--ml-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>I have just began two Cousera courses:&lt;/p></description></item><item><title/><link>https://archytseng.github.io/my-blog/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>archyz_studio@163.com (Archy Tseng)</author><guid>https://archytseng.github.io/my-blog/about/</guid><description/></item></channel></rss>
